@@ -1,0 +1,17 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/NetAspire9/.vs/NetAspire9
+/src/NetAspire9/NetAspire9.ApiService/obj
+/src/NetAspire9/NetAspire9.AppHost/obj/Debug/net8.0
+/src/NetAspire9/NetAspire9.AppHost/obj
+/src/NetAspire9/NetAspire9.ServiceDefaults/obj
+/src/NetAspire9/NetAspire9.Tests/obj
+/src/NetAspire9/NetAspire9.Web/obj
+/src/NetAspire9/NetAspire9.ApiService/bin/Debug/net8.0
+/src/NetAspire9/NetAspire9.AppHost/bin/Debug/net8.0
+/src/NetAspire9/NetAspire9.ServiceDefaults/bin/Debug/net8.0
+/src/NetAspire9/NetAspire9.Tests/bin/Debug/net8.0
+/src/NetAspire9/NetAspire9.Web/bin/Debug/net8.0
+/src/NetAspire9/NetAspire9.Web/bin/Debug/net8.0/appsettings.Development.json
